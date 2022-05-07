@@ -1,0 +1,2 @@
+void makros();
+void compute();

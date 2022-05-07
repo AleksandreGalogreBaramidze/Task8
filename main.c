@@ -4,5 +4,7 @@
 
 int main()
 {
+    makros();
+    compute();
     return 0;
 }
